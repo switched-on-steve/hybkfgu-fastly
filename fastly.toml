@@ -3,6 +3,7 @@ description = ""
 language = "rust"
 manifest_version = 2
 name = "Add a new field to a JSON response"
+service_id = "2stM6v5BWBGvwzJ4rZJ7m5"
 
 [local_server.backends.origin_0]
       url = "https://http-me.glitch.me"
